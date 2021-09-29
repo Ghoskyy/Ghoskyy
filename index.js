@@ -96,8 +96,8 @@ const _reminder = JSON.parse(fs.readFileSync("./database/reminder.json"));
 
 banChats = true;
 offline = false;
-targetpc = "6281319944917";
-owner = "6281319944917";
+targetpc = "6289653381067";
+owner = "6289653381067";
 fake = "*GHOSKY X BID*";
 thumb = fs.readFileSync("./stik/thumb.jpeg");
 numbernye = "0";
